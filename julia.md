@@ -1,4 +1,4 @@
-# Cara Install Julia di Ubuntu 20.04
+# Cara Install Julia di Ubuntu 20.04 LTS
 
 this is a file whithout a heading
 
